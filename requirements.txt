@@ -1,8 +1,10 @@
 streamlit
-panda
+pandas
 numpy
 plotly
 yfinance
+streamlit-authenticator
 bcrypt
 sqlalchemy
 requests
+openpyxl
