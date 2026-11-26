@@ -1,10 +1,12 @@
 streamlit
+Authlib
+bcrypt
+plotly
+curl-cffi
 pandas
-numpy
 plotly
 yfinance
-streamlit-authenticator
-bcrypt
 sqlalchemy
-requests
 openpyxl
+requests
+numpy
